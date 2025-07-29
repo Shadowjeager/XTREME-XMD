@@ -1,8 +1,8 @@
 {
-  "name": "RAHEEM-XMD-3",
+  "name": "XTREME-XMD",
   "description": "Javascript WhatsApp bot made ʙʏ RAHEEM-CM",
   "logo": "https://files.catbox.moe/a97zm1.jpg",
-  "keywords": ["RAHEEM-XMD-3"],
+  "keywords": ["XTREME-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "XTREME~XMD~rhBEGLBL#ykHOeEUNT5nqVyIUFq39Mvw4fsDV_MDhGGSmHvu7_mQ"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "RAHEEM-XMD-3"
+      "value": "꧁𖤍࿐ ꧁༊꧂ 𒈒 𝗟𝗢𝗥𝗗 𒆜𝕽𝕰𝕬𝕻𝕰𝕽  𒆜 𝑫𝑬𝑽𝑰𝑳_ᴏꜰ_𝑯𝒆𝒍𝒍 𒆜 𝑴𝒂𝒓𝒏𝒆𝒙𝒖𝒔 𒈒 ꧁༊꧂"
     }, 
       
     "PREFIX": {
@@ -86,20 +86,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "RAHEEM-CM"
+      "value": "꧁𖤍࿐ ꧁༊꧂ 𒈒 𝗟𝗢𝗥𝗗 𒆜𝕽𝕰𝕬𝕻𝕰𝕽  𒆜 𝑫𝑬𝑽𝑰𝑳_ᴏꜰ_𝑯𝒆𝒍𝒍 𒆜 𝑴𝒂𝒓𝒏𝒆𝒙𝒖𝒔 𒈒 ꧁༊꧂"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255XXXXXX"
+      "value": "242067266522"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "RAHEEM-XMD-3"
+      "value": "XTREME-XMD"
 
       }, 
 
