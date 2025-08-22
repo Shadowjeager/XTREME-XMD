@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://files.catbox.moe/d9ghms.jpg" width="300"/><br>
-  <b>Fast, Powerful, and Stylish WhatsApp Bot built for fun and performance.</b>
+  <b>ғᴀsᴛ, ᴘᴏᴡᴇʀғᴜʟ, ᴀɴᴅ sᴛʏʟɪsʜ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙᴜɪʟᴛ ғᴏʀ ғᴜɴ ᴀɴᴅ ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ.</b>
 </p>
 
 <p align="center">
